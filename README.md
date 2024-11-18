@@ -1,3 +1,4 @@
+![Descrição da imagem](https://raw.githubusercontent.com/Bplushie/Bplushie/main/github-mari.svg)
 # 👋 Oi, Sou a Mariane Okimoto!
 ### Cursando Análise e Desenvolvimento de Sistemas na 🌐 UNINTER e em transição de carreira para a área de tecnologia.  
 Olá! Sou apaixonada por design e tecnologia, e estou empolgada em unir essas duas áreas. Acredito que a criatividade e a técnica podem caminhar lado a lado, e é isso que busco em minha trajetória profissional.
